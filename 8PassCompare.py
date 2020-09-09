@@ -7,6 +7,7 @@ import numpy as np
 from pandas.io.json import json_normalize
 from FCPython import createPitch
 import json
+import pandas as pd
 
 #Function for finding passes before shot
 shot_window = 15    
